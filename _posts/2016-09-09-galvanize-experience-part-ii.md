@@ -29,9 +29,11 @@ For week 6, we went further into unsupervised learning topics.
 ### Week 7
 Week 7 was devoted to covering Big Data topics.
 
+The first day gave a broad overview of what you can do on Amazon Web Services, and covered multiprocessing and threading to parallelize computing processes. 
+
 
 ### Week 8
-Week 8 was the final week of structured curriculum. This week was devoted to
+Week 8 was the final week of structured curriculum.
 
 
 ### Project
@@ -40,3 +42,11 @@ For the last few weeks of the program, we worked on our projects. We spent two w
 My project was to create a news summarizer. It uses web scraping to pull popular news articles from the web, and natural language processing techniques to extract the most important sentences from the article to create summaries of each article. It then takes these summaries and puts them into an automated email newsletter. You can see the project at [brief-news.info](http://brief-news.info).
 
 For a more detailed overview of my process to create the summarizer, you can see my project's about page [here](http://brief-news.info/about).
+
+At the end of the week, we had a "Capstone Showcase" day where we presented our projects to some potential employers, and got a chance to network with some of them afterwards over lunch.
+
+
+### Wrapping up
+Once we were finished with the projects and presentations, we had one more week which was focused on preparing for interviews. We talked a little bit about the structure of the interview process and what to expect, and practiced some problems that we might face in take-home tests and had a few practice interviews.
+
+My time at Galvanize was a very enriching experience, and now I feel qualified to go out into the world and put these newfound skills to use!
