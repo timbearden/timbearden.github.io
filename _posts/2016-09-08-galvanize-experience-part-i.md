@@ -2,6 +2,7 @@
 layout: post
 title:  "My experience at Galvanize Part I"
 date:   2016-09-08
+permalink: pretty
 ---
 For the past few months, I've been attending the Galvanize Data Science Immersive program. In my time there I've met a lot of very cool people and worked hard and learned a ton. These blog posts will be an effort to describe many of the things that I've learned through my experience at Galvanize.
 
