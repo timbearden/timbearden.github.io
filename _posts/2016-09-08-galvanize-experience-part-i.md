@@ -67,4 +67,4 @@ We finished the week off by trying to put some of these models into a more reali
 
 
 ### Next time
-I had originally intended for this to be one post that described everything that I did at Galvanize. Since this has gotten very long already, I will split this into two blog posts and post the second half tomorrow.
+I had originally intended for this to be one post that described everything that I did at Galvanize. This has gotten very long already, and I haven't even gone into nearly as much detail as I would have liked, so I will split this into two blog posts and post the second half tomorrow.
