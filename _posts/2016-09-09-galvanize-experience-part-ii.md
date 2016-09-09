@@ -3,7 +3,7 @@ layout: post
 title:  "My experience at Galvanize Part II"
 date:   2016-09-09
 ---
-This is the second part of a two-part description of my time in Galvanize's Data Science Immersive program. [You can find part one here.](/2016-09-08-galvanize-experience-part-i)
+This is the second part of a two-part description of my time in Galvanize's Data Science Immersive program. [You can find part one here.](/2016-09-08-galvanize-experience-part-i.html)
 
 ### Week 5
 Week 5 was somewhat of a grab-bag of different topics.
