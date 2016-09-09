@@ -2,9 +2,8 @@
 layout: post
 title:  "My experience at Galvanize Part II"
 date:   2016-09-09
-permalink: pretty
 ---
-This is the second part of a two-part description of my time in Galvanize's Data Science Immersive program. [You can find part one here.](/2016/09/08/galvanize-experience-part-i)
+This is the second part of a two-part description of my time in Galvanize's Data Science Immersive program. [You can find part one here.](/2016/09/08/galvanize-experience-part-i.html)
 
 ### Week 5
 Week 5 was somewhat of a grab-bag of different topics.
@@ -29,7 +28,7 @@ For week 6, we went further into unsupervised learning topics.
 ### Week 7
 Week 7 was devoted to covering Big Data topics.
 
-The first day gave a broad overview of what you can do on Amazon Web Services, and covered multiprocessing and threading to parallelize computing processes. 
+The first day gave a broad overview of what you can do on Amazon Web Services, and covered multiprocessing and threading to parallelize computing processes.
 
 
 ### Week 8
