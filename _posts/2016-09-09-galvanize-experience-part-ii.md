@@ -22,7 +22,9 @@ We finished off the week with an introduction to unsupervised learning by coveri
 
 
 ### Week 6
-For week 6, we went further into unsupervised learning topics.
+For week 6, we went further into unsupervised learning topics. We started with learning Principal Component Analysis (PCA) and Singular Value Decomposition (SVD), which are dimensionality reduction techniques. Dimensionality reduction attempts to reduce the features space of your data in order to mitigate the problems associated with high-dimensional data. While these are not technically unsupervised learning algorithms, SVD is related because it can extract latent features from the data. We also learned about Non-negative Matrix Factorization (NMF), which is another way to learn latent features in your data.
+
+We then learned about recommender systems, which is probably the most visible use of data science out in the real world. We finished with another case study, this time it involved building a recommender. The data we used was the Jester dataset, which is a dataset of over 100 jokes with user ratings for each of these jokes. The goal was to predict what the five highest scoring jokes for a user would be, based off of their previous ratings. 
 
 
 ### Week 7
